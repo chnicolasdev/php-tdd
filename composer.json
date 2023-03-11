@@ -1,0 +1,14 @@
+{
+    "name": "usuario/php-tdd",
+    "description": "Entorno de pruebas PHP",
+    "type": "project",
+    "require": {
+        "phpunit/phpunit": "^9.6"
+    },
+    "authors": [
+        {
+            "name": "Christian Ojeda",
+            "email": "christian.cnod@gmail.com"
+        }
+    ]
+}
